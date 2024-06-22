@@ -1,7 +1,7 @@
 # Maize Tasseling Stage Dataset
 
 <div align=center>
-<img src="https://github.com/islls/MTS-master_JX/blob/master/img.jpg"/>   
+<img src="https://github.com/islls/MTS-master-JX/blob/master/img.jpg"/>   
 </div> 
 
 **The resources in this repository are implemented in this paper：**  
