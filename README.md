@@ -25,9 +25,9 @@
 
 ~~~
 @ARTICLE{10684092,
+  title={Maize Tasseling Stage Automated Observation Method via Semantic Enhancement and Context Occlusion Learning}, 
   author={Ye, Jianxiong and Yu, Zhenghong and Lin, Jiewu and Lin, Lisheng and Li, Hongyuan and Zhu, Xuebin and Feng, Haijie and Yin, Haichang and Zhou, Huabing},
   journal={IEEE Sensors Journal}, 
-  title={Maize Tasseling Stage Automated Observation Method via Semantic Enhancement and Context Occlusion Learning}, 
   year={2024},
   volume={24},
   number={22},
