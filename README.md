@@ -24,9 +24,14 @@
 #### If you find this work useful for your research, please cite this, Thank you!🤗
 
 ~~~
-@article{MTS dataset,  
-  title={Maize Tasseling Stage Automated Observation Method via Semantic Enhancement and Context Occlusion Learning},  
-  author={Ye, Jianxiong and Yu, Zhenghong and Lin, Jiewu and Lin, Lisheng and Zhu, Xuebin and Feng, Haijie and Yin, Haichang and Zhou, Huabing}, 
-  year={2024}
+@ARTICLE{10684092,
+  author={Ye, Jianxiong and Yu, Zhenghong and Lin, Jiewu and Lin, Lisheng and Li, Hongyuan and Zhu, Xuebin and Feng, Haijie and Yin, Haichang and Zhou, Huabing},
+  journal={IEEE Sensors Journal}, 
+  title={Maize Tasseling Stage Automated Observation Method via Semantic Enhancement and Context Occlusion Learning}, 
+  year={2024},
+  volume={24},
+  number={22},
+  pages={37259-37274},
+  doi={10.1109/JSEN.2024.3459618}
 }
 ~~~
